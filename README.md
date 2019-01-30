@@ -9,8 +9,4 @@ For help getting started with Flutter, view our online
 
 ## Screenshots
 
-![](screenshots/chatsPage.png)
-![](screenshots/discoverPage1.png)
-![](screenshots/discoverPage2.png)
-![](screenshots/peoplePage.png)
-![](screenshots/profilePage.png)
+![](insta.png)
